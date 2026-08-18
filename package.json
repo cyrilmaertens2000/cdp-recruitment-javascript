@@ -1,0 +1,13 @@
+{
+  "name": "cdp-recruitment-javascript",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Node.js command-line interface for filtering and counting nested country, people and animal data.",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
